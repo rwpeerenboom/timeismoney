@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow_logic">
+    <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <block display_value="">d09b369bdb497f401534f9741d961923</block>
+        <comment>IF Works Notes Count great than zero</comment>
+        <connected_to/>
+        <decision_table/>
+        <decision_table_inputs/>
+        <display_text/>
+        <flow display_value="Contact SWAT team">a5e87293db497f401534f9741d96196f</flow>
+        <inputs/>
+        <logic_definition display_value="If">af4e1945c3e232002841b63b12d3ae3e</logic_definition>
+        <order>2</order>
+        <outputs_assigned/>
+        <outputs_to_assign/>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_flow_logic</sys_class_name>
+        <sys_created_by>robert.peerenboom</sys_created_by>
+        <sys_created_on>2019-05-01 23:49:50</sys_created_on>
+        <sys_id>d49b369bdb497f401534f9741d961924</sys_id>
+        <sys_mod_count>10</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Time is Money" source="sn_time_is_money">4d7f60b30b301300775a2f5995673aee</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Time is Money">4d7f60b30b301300775a2f5995673aee</sys_scope>
+        <sys_update_name>sys_hub_flow_logic_d49b369bdb497f401534f9741d961924</sys_update_name>
+        <sys_updated_by>robert.peerenboom</sys_updated_by>
+        <sys_updated_on>2019-05-02 02:08:40</sys_updated_on>
+        <ui_id>0e2423f4-ca6d-4b9d-ab32-ac94d7bfffe3</ui_id>
+        <workflow_inputs/>
+        <workflow_reference/>
+    </sys_hub_flow_logic>
+    <sys_variable_value action="delete_multiple" query="document_key=d49b369bdb497f401534f9741d961924"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_flow_logic</document>
+        <document_key>d49b369bdb497f401534f9741d961924</document_key>
+        <order>20</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>robert.peerenboom</sys_created_by>
+        <sys_created_on>2019-05-01 23:49:50</sys_created_on>
+        <sys_id>d09b369bdb497f401534f9741d961928</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>robert.peerenboom</sys_updated_by>
+        <sys_updated_on>2019-05-01 23:49:50</sys_updated_on>
+        <value>{{74638553-ea15-4fb8-9f30-3fed15ecb3b5.work_notes_count}}&gt;0</value>
+        <variable display_value="">9a5f5105c32632002841b63b12d3ae46</variable>
+    </sys_variable_value>
+</record_update>

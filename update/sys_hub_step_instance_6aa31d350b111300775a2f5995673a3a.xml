@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_step_instance">
+    <sys_hub_step_instance action="INSERT_OR_UPDATE">
+        <action display_value="Search # of Work Notes in Incident">bfa2ddf10b111300775a2f5995673a30</action>
+        <cid>81eb37c9-1fb5-4d03-adb4-3b7a814255dd</cid>
+        <extended_inputs/>
+        <extended_outputs/>
+        <icon/>
+        <inputs/>
+        <inputs/>
+        <label>Look Up Records step</label>
+        <order>1</order>
+        <outputs/>
+        <step_type display_value="Look Up Records">48526b2dc32a32002841b63b12d3ae72</step_type>
+        <sys_class_name>sys_hub_step_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-04-06 18:18:22</sys_created_on>
+        <sys_id>6aa31d350b111300775a2f5995673a3a</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Look Up Records step</sys_name>
+        <sys_package display_value="Time is Money" source="sn_time_is_money">4d7f60b30b301300775a2f5995673aee</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="Time is Money">4d7f60b30b301300775a2f5995673aee</sys_scope>
+        <sys_update_name>sys_hub_step_instance_6aa31d350b111300775a2f5995673a3a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-04-06 18:18:22</sys_updated_on>
+    </sys_hub_step_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=6aa31d350b111300775a2f5995673a3a"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_step_instance</document>
+        <document_key>6aa31d350b111300775a2f5995673a3a</document_key>
+        <order>10</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-04-06 18:18:22</sys_created_on>
+        <sys_id>62a31d350b111300775a2f5995673a45</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-04-06 18:18:22</sys_updated_on>
+        <value>sys_journal_field</value>
+        <variable display_value="">4d19bb21c36a32002841b63b12d3aeef</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=6aa31d350b111300775a2f5995673a3a"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>conditions</field>
+        <id>6aa31d350b111300775a2f5995673a3a</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-04-06 18:18:22</sys_created_on>
+        <sys_id>a6a31d350b111300775a2f5995673a44</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-04-06 18:18:22</sys_updated_on>
+        <table>var__m_sys_flow_step_definition_input_48526b2dc32a32002841b63b12d3ae72</table>
+        <value>element_id={{action.incident.sys_id}}^valueLIKE{{action.keyword}}^name=incident^element=work_notes</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>table_name</field>
+        <id>6aa31d350b111300775a2f5995673a3a</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-04-06 18:18:22</sys_created_on>
+        <sys_id>eea31d350b111300775a2f5995673a44</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-04-06 18:18:22</sys_updated_on>
+        <table>var__m_sys_flow_step_definition_input_48526b2dc32a32002841b63b12d3ae72</table>
+        <value/>
+    </sys_element_mapping>
+</record_update>

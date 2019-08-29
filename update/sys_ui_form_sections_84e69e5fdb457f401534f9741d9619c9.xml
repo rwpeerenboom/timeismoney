@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="84e69e5fdb457f401534f9741d9619c9" sys_domain="global" table="sys_hub_flow_input" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>robert.peerenboom</sys_created_by>
+            <sys_created_on>2019-05-01 21:09:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>08e6169fdb457f401534f9741d96190f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="sys_hub_flow_input" name="sys_hub_flow_input" sys_domain="global" view="Default view">84e69e5fdb457f401534f9741d9619c9</sys_ui_form>
+            <sys_ui_section caption="Topic Variables" display_value="Topic Variables" name="sys_hub_flow_input" sys_domain="global" view="Default view">48e6169fdb457f401534f9741d96190d</sys_ui_section>
+            <sys_updated_by>robert.peerenboom</sys_updated_by>
+            <sys_updated_on>2019-05-01 21:09:32</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>robert.peerenboom</sys_created_by>
+            <sys_created_on>2019-05-01 21:09:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cce6169fdb457f401534f9741d96190c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="sys_hub_flow_input" name="sys_hub_flow_input" sys_domain="global" view="Default view">84e69e5fdb457f401534f9741d9619c9</sys_ui_form>
+            <sys_ui_section caption="Reference Specification" display_value="Reference Specification" name="sys_hub_flow_input" sys_domain="global" view="Default view">0ce69e5fdb457f401534f9741d9619cb</sys_ui_section>
+            <sys_updated_by>robert.peerenboom</sys_updated_by>
+            <sys_updated_on>2019-05-01 21:09:32</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>robert.peerenboom</sys_created_by>
+            <sys_created_on>2019-05-01 21:09:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>10e6169fdb457f401534f9741d961912</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="sys_hub_flow_input" name="sys_hub_flow_input" sys_domain="global" view="Default view">84e69e5fdb457f401534f9741d9619c9</sys_ui_form>
+            <sys_ui_section caption="Choice List Specification" display_value="Choice List Specification" name="sys_hub_flow_input" sys_domain="global" view="Default view">00e6169fdb457f401534f9741d961911</sys_ui_section>
+            <sys_updated_by>robert.peerenboom</sys_updated_by>
+            <sys_updated_on>2019-05-01 21:09:32</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>robert.peerenboom</sys_created_by>
+            <sys_created_on>2019-05-01 21:09:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0ce6169fdb457f401534f9741d961910</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="sys_hub_flow_input" name="sys_hub_flow_input" sys_domain="global" view="Default view">84e69e5fdb457f401534f9741d9619c9</sys_ui_form>
+            <sys_ui_section caption="Default Value" display_value="Default Value" name="sys_hub_flow_input" sys_domain="global" view="Default view">0ce6169fdb457f401534f9741d96190f</sys_ui_section>
+            <sys_updated_by>robert.peerenboom</sys_updated_by>
+            <sys_updated_on>2019-05-01 21:09:32</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>sys_hub_flow_input</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>robert.peerenboom</sys_created_by>
+            <sys_created_on>2019-05-01 21:09:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>84e69e5fdb457f401534f9741d9619c9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sys_hub_flow_input</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Time is Money" source="sn_time_is_money">4d7f60b30b301300775a2f5995673aee</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Time is Money">4d7f60b30b301300775a2f5995673aee</sys_scope>
+            <sys_update_name>sys_ui_form_sections_84e69e5fdb457f401534f9741d9619c9</sys_update_name>
+            <sys_updated_by>robert.peerenboom</sys_updated_by>
+            <sys_updated_on>2019-05-01 21:09:31</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

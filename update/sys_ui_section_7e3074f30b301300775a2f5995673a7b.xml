@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="7e3074f30b301300775a2f5995673a7b" sys_domain="global" table="sn_time_is_money_dev_on_call" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>user</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-19 00:20:33</sys_created_on>
+            <sys_id>aa5038f30b301300775a2f5995673a8e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sn_time_is_money_dev_on_call" sys_domain="global" view="Default view">7e3074f30b301300775a2f5995673a7b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-19 00:20:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-19 00:20:33</sys_created_on>
+            <sys_id>2e5038f30b301300775a2f5995673a8e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sn_time_is_money_dev_on_call" sys_domain="global" view="Default view">7e3074f30b301300775a2f5995673a7b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-19 00:20:33</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>sn_time_is_money_dev_on_call</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-19 00:20:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7e3074f30b301300775a2f5995673a7b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sn_time_is_money_dev_on_call</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Time is Money" source="sn_time_is_money">4d7f60b30b301300775a2f5995673aee</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Time is Money">4d7f60b30b301300775a2f5995673aee</sys_scope>
+            <sys_update_name>sys_ui_section_7e3074f30b301300775a2f5995673a7b</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-19 00:20:02</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

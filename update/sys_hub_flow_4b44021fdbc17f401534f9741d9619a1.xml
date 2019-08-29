@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow">
+    <sys_hub_flow action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <acls/>
+        <active>true</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description>Automates processing high-priority incidents through a SWAT team</description>
+        <internal_name>automate_swat_team_incidents</internal_name>
+        <label_cache>[{"name":"Created_1.current.assignment_group","label":"Trigger➛Incident Record➛Assignment group","reference":"sys_user_group","reference_display":"Group","type":"reference","base_type":"reference","parent_table_name":"incident","column_name":"assignment_group"},{"name":"Created_1.current","label":"Trigger➛Incident Record","reference":"incident","reference_display":"Incident","type":"reference","base_type":"reference"},{"name":"Created_1.current.short_description","label":"Trigger➛Incident Record➛Short description","reference":"","reference_display":"Short description","type":"string","base_type":"string","parent_table_name":"incident","column_name":"short_description"}]</label_cache>
+        <latest_snapshot>fe67425bdb85ff40d205f1771d961999</latest_snapshot>
+        <master_snapshot>b0e4865fdbc17f401534f9741d961929</master_snapshot>
+        <name>Automate SWAT team incidents</name>
+        <outputs/>
+        <remote_trigger_id>05e4865fdbc17f401534f9741d961960</remote_trigger_id>
+        <run_as>user</run_as>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>false</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>published</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>robert.peerenboom</sys_created_by>
+        <sys_created_on>2019-05-01 19:48:21</sys_created_on>
+        <sys_id>4b44021fdbc17f401534f9741d9619a1</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>Automate SWAT team incidents</sys_name>
+        <sys_package display_value="Time is Money" source="sn_time_is_money">4d7f60b30b301300775a2f5995673aee</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Time is Money">4d7f60b30b301300775a2f5995673aee</sys_scope>
+        <sys_update_name>sys_hub_flow_4b44021fdbc17f401534f9741d9619a1</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2019-05-01 20:02:01</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow>
+    <sys_translated_text action="delete_multiple" query="documentkey=4b44021fdbc17f401534f9741d9619a1"/>
+    <sys_variable_value action="delete_multiple" query="document_key=4b44021fdbc17f401534f9741d9619a1"/>
+</record_update>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Incident">dead1309c611228701e2bda7b4252474</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter table="sn_time_is_money_dev_on_call">start_date&gt;=javascript:gs.beginningOfToday()^EQ<item endquery="false" field="start_date" goto="false" newquery="false" operator="&gt;=" or="false" value="javascript:gs.beginningOfToday()"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <hint>List of developer on call</hint>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Devs on Call</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>sn_time_is_money_dev_on_call</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-03-19 00:34:15</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>aa33b8770b301300775a2f5995673a9f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Devs on Call</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Time is Money" source="sn_time_is_money">4d7f60b30b301300775a2f5995673aee</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Time is Money">4d7f60b30b301300775a2f5995673aee</sys_scope>
+        <sys_update_name>sys_app_module_aa33b8770b301300775a2f5995673a9f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-03-19 00:34:15</sys_updated_on>
+        <timeline_page/>
+        <title>Devs on Call</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

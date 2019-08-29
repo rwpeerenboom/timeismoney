@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="sn_time_is_money_dev_on_call" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>user</element>
+            <list_id display_value="sn_time_is_money_dev_on_call" element="NULL" name="sn_time_is_money_dev_on_call" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">dd8b11770b301300775a2f5995673a88</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-19 03:29:10</sys_created_on>
+            <sys_id>958b11770b301300775a2f5995673a89</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-19 03:29:10</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>start_date</element>
+            <list_id display_value="sn_time_is_money_dev_on_call" element="NULL" name="sn_time_is_money_dev_on_call" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">dd8b11770b301300775a2f5995673a88</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-19 03:29:10</sys_created_on>
+            <sys_id>198b11770b301300775a2f5995673a89</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-19 03:29:10</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>end_date</element>
+            <list_id display_value="sn_time_is_money_dev_on_call" element="NULL" name="sn_time_is_money_dev_on_call" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">dd8b11770b301300775a2f5995673a88</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-19 03:29:10</sys_created_on>
+            <sys_id>998b11770b301300775a2f5995673a89</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-19 03:29:10</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>sn_time_is_money_dev_on_call</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-19 03:29:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dd8b11770b301300775a2f5995673a88</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sn_time_is_money_dev_on_call</sys_name>
+            <sys_package display_value="Time is Money" source="sn_time_is_money">4d7f60b30b301300775a2f5995673aee</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Time is Money">4d7f60b30b301300775a2f5995673aee</sys_scope>
+            <sys_update_name>sys_ui_list_sn_time_is_money_dev_on_call_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-19 03:29:10</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

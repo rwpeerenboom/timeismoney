@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_inputs/>
+        <action_type display_value="Add Group Users to Task Conversation">79aeb8f29f200300af7196fcc67fcfa7</action_type>
+        <action_type_parent/>
+        <comment/>
+        <compiled_snapshot>79aeb8f29f200300af7196fcc67fcfa7</compiled_snapshot>
+        <display_text/>
+        <flow display_value="Automate SWAT team incidents">4b44021fdbc17f401534f9741d9619a1</flow>
+        <order>1</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>robert.peerenboom</sys_created_by>
+        <sys_created_on>2019-05-01 19:57:25</sys_created_on>
+        <sys_id>33560edfdbc17f401534f9741d96194f</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Time is Money" source="sn_time_is_money">4d7f60b30b301300775a2f5995673aee</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Time is Money">4d7f60b30b301300775a2f5995673aee</sys_scope>
+        <sys_update_name>sys_hub_action_instance_33560edfdbc17f401534f9741d96194f</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2019-05-01 20:02:01</sys_updated_on>
+        <ui_id>d7d8e42b-6918-4b7e-9d3c-5cc9f4392af7</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=33560edfdbc17f401534f9741d96194f"/>
+    <sys_element_mapping action="delete_multiple" query="id=33560edfdbc17f401534f9741d96194f"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>ah_group</field>
+        <id>33560edfdbc17f401534f9741d96194f</id>
+        <sys_created_by>robert.peerenboom</sys_created_by>
+        <sys_created_on>2019-05-01 20:00:52</sys_created_on>
+        <sys_id>1227c293db057f401534f9741d9619fd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>robert.peerenboom</sys_updated_by>
+        <sys_updated_on>2019-05-01 20:00:52</sys_updated_on>
+        <table>var__m_sys_hub_action_input_79aeb8f29f200300af7196fcc67fcfa7</table>
+        <value>{{Created_1.current.assignment_group}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>ah_group</field>
+        <id>33560edfdbc17f401534f9741d96194f</id>
+        <sys_created_by>robert.peerenboom</sys_created_by>
+        <sys_created_on>2019-05-01 19:57:25</sys_created_on>
+        <sys_id>3b560edfdbc17f401534f9741d961955</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>robert.peerenboom</sys_updated_by>
+        <sys_updated_on>2019-05-01 19:57:25</sys_updated_on>
+        <table>var__m_sys_hub_action_input_d8bd74f29f200300af7196fcc67fcf69</table>
+        <value>{{Created_1.current.assignment_group}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>ah_task_record</field>
+        <id>33560edfdbc17f401534f9741d96194f</id>
+        <sys_created_by>robert.peerenboom</sys_created_by>
+        <sys_created_on>2019-05-01 20:00:52</sys_created_on>
+        <sys_id>d627c293db057f401534f9741d9619fd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>robert.peerenboom</sys_updated_by>
+        <sys_updated_on>2019-05-01 20:00:52</sys_updated_on>
+        <table>var__m_sys_hub_action_input_79aeb8f29f200300af7196fcc67fcfa7</table>
+        <value>{{Created_1.current}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>ah_task_record</field>
+        <id>33560edfdbc17f401534f9741d96194f</id>
+        <sys_created_by>robert.peerenboom</sys_created_by>
+        <sys_created_on>2019-05-01 19:57:25</sys_created_on>
+        <sys_id>ff560edfdbc17f401534f9741d961955</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>robert.peerenboom</sys_updated_by>
+        <sys_updated_on>2019-05-01 19:57:25</sys_updated_on>
+        <table>var__m_sys_hub_action_input_d8bd74f29f200300af7196fcc67fcf69</table>
+        <value>{{Created_1.current}}</value>
+    </sys_element_mapping>
+</record_update>

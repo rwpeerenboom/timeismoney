@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_flow_subflow_plan">
+    <sys_flow_subflow_plan action="INSERT_OR_UPDATE">
+        <plan>{"persistor":{"@class":".ChunkingPlanPersistor","table":"sys_flow_subflow_plan","id":"f4db7a9bdb497f401534f9741d96197d","name":"plan"}}</plan>
+        <plan_id display_value="Contact SWAT team">a5e87293db497f401534f9741d96196f</plan_id>
+        <snapshot>f43a5b1fdb8dff40d205f1771d961990</snapshot>
+        <sys_class_name>sys_flow_subflow_plan</sys_class_name>
+        <sys_created_by>robert.peerenboom</sys_created_by>
+        <sys_created_on>2019-05-01 23:50:57</sys_created_on>
+        <sys_id>f4db7a9bdb497f401534f9741d96197d</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>a5e87293db497f401534f9741d96196f</sys_name>
+        <sys_package display_value="Time is Money" source="sn_time_is_money">4d7f60b30b301300775a2f5995673aee</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Time is Money">4d7f60b30b301300775a2f5995673aee</sys_scope>
+        <sys_update_name>sys_flow_subflow_plan_f4db7a9bdb497f401534f9741d96197d</sys_update_name>
+        <sys_updated_by>robert.peerenboom</sys_updated_by>
+        <sys_updated_on>2019-05-02 01:56:58</sys_updated_on>
+    </sys_flow_subflow_plan>
+</record_update>

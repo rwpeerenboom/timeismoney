@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow_snapshot">
+    <sys_hub_flow_snapshot action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <acls/>
+        <active>true</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description>Runs every time an incident containing the engage_swat keyword is updated</description>
+        <internal_name>engage_swat</internal_name>
+        <label_cache>[{"name":"Updated_1.current","label":"Trigger➛Incident Record","reference":"incident","reference_display":"Incident","type":"reference","base_type":"reference"}]</label_cache>
+        <master>true</master>
+        <name>Engage Swat</name>
+        <outputs/>
+        <parent_flow display_value="Engage Swat">ec2c369bdb497f401534f9741d96196c</parent_flow>
+        <remote_trigger_id/>
+        <run_as>user</run_as>
+        <sc_callable>false</sc_callable>
+        <status>published</status>
+        <sys_class_name>sys_hub_flow_snapshot</sys_class_name>
+        <sys_created_by>robert.peerenboom</sys_created_by>
+        <sys_created_on>2019-05-01 23:55:55</sys_created_on>
+        <sys_id>61fc721fdb497f401534f9741d9619f3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Engage Swat</sys_name>
+        <sys_package display_value="Time is Money" source="sn_time_is_money">4d7f60b30b301300775a2f5995673aee</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Time is Money">4d7f60b30b301300775a2f5995673aee</sys_scope>
+        <sys_update_name>sys_hub_flow_snapshot_61fc721fdb497f401534f9741d9619f3</sys_update_name>
+        <sys_updated_by>robert.peerenboom</sys_updated_by>
+        <sys_updated_on>2019-05-01 23:55:55</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow_snapshot>
+    <sys_translated_text action="delete_multiple" query="documentkey=61fc721fdb497f401534f9741d9619f3"/>
+    <sys_variable_value action="delete_multiple" query="document_key=61fc721fdb497f401534f9741d9619f3"/>
+</record_update>

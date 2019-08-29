@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_type_definition">
+    <sys_hub_action_type_definition action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <acls/>
+        <active>true</active>
+        <annotation>Get the number of work notes with the specific keyword on the incident</annotation>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category display_value="Default">4ce011350b111300775a2f5995673a51</category>
+        <copied_from/>
+        <copied_from_name/>
+        <description>Search for work notes containing the specified keyword associated with a specific incident.</description>
+        <internal_name>search_#_of_work_notes_in_incident</internal_name>
+        <label_cache>[{"name":"{{action.keyword}}","label":"action➛Keyword","type":"action","ref":""},{"name":"{{action.incident}}","label":"action➛Incident","type":"action","ref":"incident"},{"name":"{{action.incident.sys_id}}","label":"action➛Incident➛Sys ID","type":"action","ref":""},{"name":"{{step[81eb37c9-1fb5-4d03-adb4-3b7a814255dd].count}}","label":"step➛Look Up Records step➛Count","type":"step","ref":""}]</label_cache>
+        <latest_snapshot>4efcb21fdb497f401534f9741d96195c</latest_snapshot>
+        <master_snapshot>d0d35d350b111300775a2f5995673a5d</master_snapshot>
+        <name>Search # of Work Notes in Incident</name>
+        <outputs/>
+        <outputs/>
+        <state>published</state>
+        <sys_class_name>sys_hub_action_type_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-04-06 18:14:06</sys_created_on>
+        <sys_id>bfa2ddf10b111300775a2f5995673a30</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Search # of Work Notes in Incident</sys_name>
+        <sys_package display_value="Time is Money" source="sn_time_is_money">4d7f60b30b301300775a2f5995673aee</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="Time is Money">4d7f60b30b301300775a2f5995673aee</sys_scope>
+        <sys_update_name>sys_hub_action_type_definition_bfa2ddf10b111300775a2f5995673a30</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-04-06 18:19:04</sys_updated_on>
+        <system_level>false</system_level>
+        <type/>
+    </sys_hub_action_type_definition>
+    <sys_translated_text action="delete_multiple" query="documentkey=bfa2ddf10b111300775a2f5995673a30"/>
+    <sys_variable_value action="delete_multiple" query="document_key=bfa2ddf10b111300775a2f5995673a30"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_type_definition</document>
+        <document_key>bfa2ddf10b111300775a2f5995673a30</document_key>
+        <order>0</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-04-06 18:18:23</sys_created_on>
+        <sys_id>2aa31d350b111300775a2f5995673a5b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-04-06 18:18:23</sys_updated_on>
+        <value/>
+        <variable display_value="">e2a31d350b111300775a2f5995673a4a</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=bfa2ddf10b111300775a2f5995673a30"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>work_notes_count</field>
+        <id>bfa2ddf10b111300775a2f5995673a30</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-04-06 18:18:23</sys_created_on>
+        <sys_id>a6a31d350b111300775a2f5995673a5b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-04-06 18:18:23</sys_updated_on>
+        <table>var__m_sys_hub_action_output_bfa2ddf10b111300775a2f5995673a30</table>
+        <value>{{step[81eb37c9-1fb5-4d03-adb4-3b7a814255dd].count}}</value>
+    </sys_element_mapping>
+</record_update>

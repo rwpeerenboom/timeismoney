@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="table_name" label="Table Name" language="en" table="var__m_sys_hub_flow_input_ec2c369bdb497f401534f9741d96196c">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>table_name</element>
+            <help/>
+            <hint/>
+            <label>Table Name</label>
+            <language>en</language>
+            <name>var__m_sys_hub_flow_input_ec2c369bdb497f401534f9741d96196c</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>robert.peerenboom</sys_created_by>
+            <sys_created_on>2019-05-01 23:55:50</sys_created_on>
+            <sys_id>94fc721fdb497f401534f9741d961913</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Table Name</sys_name>
+            <sys_package display_value="Time is Money" source="sn_time_is_money">4d7f60b30b301300775a2f5995673aee</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Time is Money">4d7f60b30b301300775a2f5995673aee</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_ec2c369bdb497f401534f9741d96196c_table_name_en</sys_update_name>
+            <sys_updated_by>robert.peerenboom</sys_updated_by>
+            <sys_updated_on>2019-05-01 23:55:50</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

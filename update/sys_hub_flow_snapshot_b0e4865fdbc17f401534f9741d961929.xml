@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow_snapshot">
+    <sys_hub_flow_snapshot action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <acls/>
+        <active>true</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description>Automates processing high-priority incidents through a SWAT team</description>
+        <internal_name>automate_swat_team_incidents</internal_name>
+        <label_cache>[{"name":"Created_1.current.short_description","label":"Trigger➛Incident Record➛Short description","reference":"","reference_display":"Short description","type":"string","base_type":"string","parent_table_name":"incident","column_name":"short_description"}]</label_cache>
+        <master>true</master>
+        <name>Automate SWAT team incidents</name>
+        <outputs/>
+        <parent_flow display_value="Automate SWAT team incidents">4b44021fdbc17f401534f9741d9619a1</parent_flow>
+        <remote_trigger_id/>
+        <run_as>user</run_as>
+        <sc_callable>false</sc_callable>
+        <status>published</status>
+        <sys_class_name>sys_hub_flow_snapshot</sys_class_name>
+        <sys_created_by>robert.peerenboom</sys_created_by>
+        <sys_created_on>2019-05-01 19:50:56</sys_created_on>
+        <sys_id>b0e4865fdbc17f401534f9741d961929</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Automate SWAT team incidents</sys_name>
+        <sys_package display_value="Time is Money" source="sn_time_is_money">4d7f60b30b301300775a2f5995673aee</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Time is Money">4d7f60b30b301300775a2f5995673aee</sys_scope>
+        <sys_update_name>sys_hub_flow_snapshot_b0e4865fdbc17f401534f9741d961929</sys_update_name>
+        <sys_updated_by>robert.peerenboom</sys_updated_by>
+        <sys_updated_on>2019-05-01 19:50:56</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow_snapshot>
+    <sys_translated_text action="delete_multiple" query="documentkey=b0e4865fdbc17f401534f9741d961929"/>
+    <sys_variable_value action="delete_multiple" query="document_key=b0e4865fdbc17f401534f9741d961929"/>
+</record_update>

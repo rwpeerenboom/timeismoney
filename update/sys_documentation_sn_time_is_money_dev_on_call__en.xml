@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Devs on Call" language="en" table="sn_time_is_money_dev_on_call">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Devs on Call</label>
+            <language>en</language>
+            <name>sn_time_is_money_dev_on_call</name>
+            <plural>Devs on Calls</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-19 00:17:35</sys_created_on>
+            <sys_id>8fafecb30b301300775a2f5995673ad1</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>Devs on Call</sys_name>
+            <sys_package display_value="Time is Money" source="sn_time_is_money">4d7f60b30b301300775a2f5995673aee</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Time is Money">4d7f60b30b301300775a2f5995673aee</sys_scope>
+            <sys_update_name>sys_documentation_sn_time_is_money_dev_on_call__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-19 03:28:28</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
